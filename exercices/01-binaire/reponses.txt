@@ -3,16 +3,16 @@
 # et lance dans le terminal :  python3 verifier.py 1
 
 # 128 en binaire
-Q1 = 
+Q1 = 10000000
 
 # 192 en binaire
-Q2 = 
+Q2 = 11000000
 
 # 255 en binaire
-Q3 = 
+Q3 = 11111111
 
 # 10 en binaire
-Q4 = 
+Q4 = 00001010
 
 # 168 en binaire
 Q5 = 
